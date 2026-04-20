@@ -1,7 +1,7 @@
 export const personalDetails = {
   name: 'Sharad Anirudh Jonnalagadda',
-  phone: '+91-XXXXXXXXXX',
-  personalEmail: 'sharad.anirudh@example.com',
+  phone: '70285 60897',
+  personalEmail: 'Sharadanirudhchess@gmail.com',
   collegeEmail: '23f2000690@study.iitm.ac.in',
   github: 'https://github.com/23f2000690',
   profileImage: 'https://github.com/23f2000690.png',
